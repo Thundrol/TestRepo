@@ -3,6 +3,7 @@ import { Component, OnInit } from '@angular/core';
 @Component({
   selector: 'app-register',
   template: `
+  TEST
   <div class="row">
   <div class="main">
       <div class="card">
